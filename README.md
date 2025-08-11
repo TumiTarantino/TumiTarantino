@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Tumi, a 20 year old from South Africa.
+I am currently learning many topics regarding to working in the cloud.
+I will update this 'README' when I furthered my understanding of the technologies surrounding the cloud.
+Thank you
