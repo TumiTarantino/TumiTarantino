@@ -28,7 +28,7 @@ Current Focus
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TumiTarantino&show_icons=true&theme=tokyonight&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=TumiTarantino&show_icons=true&theme=tokyonight)
 
 ### 💻 Top Languages
 
