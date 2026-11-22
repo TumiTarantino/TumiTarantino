@@ -25,3 +25,7 @@ I'm also planning to expand into C# and ASP.NET Core to build scalable backend s
 Current Focus
 
 🚀 Completing the Odin Project
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
