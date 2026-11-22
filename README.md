@@ -27,5 +27,4 @@ Current Focus
 🚀 Completing the Odin Project
 
 ## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TumiTarantino&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TumiTarantino&layout=compact&theme=radical&langs_count=8)
