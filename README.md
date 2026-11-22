@@ -26,5 +26,14 @@ Current Focus
 
 🚀 Completing the Odin Project
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TumiTarantino&layout=compact&theme=radical&langs_count=8)
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TumiTarantino&show_icons=true&theme=tokyonight&include_all_commits=true)
+
+### 💻 Top Languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TumiTarantino&layout=compact&theme=tokyonight)
+
+### 🔥 Contribution Streak
+
+![Streak](https://streak-stats.demolab.com?user=TumiTarantino&theme=tokyonight)
